@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react";
 
-function SignIn() {
+function Profile() {
   return (
     <div
     style={{
@@ -8,9 +8,9 @@ function SignIn() {
       paddingTop: "300px",
     }}
     >
-      <h1>Sign In</h1>
+      <h1>Contact Us</h1>
     </div>
-  )
+  );
 }
 
-export default SignIn;
+export default Profile;
