@@ -28,12 +28,6 @@ function Navbar({clicked, isClicked}) {
             Commits
           </NavLink>
         </li>
-        <li className="NavElements">
-          <NavLink className="Link" to="/profile">
-            Profile
-          </NavLink>
-        </li>
-
         <li className="NavButton">
           <NavLink className="Link" to="/sign-up">
             Sign Up
